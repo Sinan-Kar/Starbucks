@@ -4,7 +4,7 @@
 
 
 
-This Website is a template design of a famous
+## This: Website is a template design of a famous
  hot beverage company based on **HTML**, **CSS** and **JAVASCRIPT**.
  Inspired by the advertising design of 1976.
  
