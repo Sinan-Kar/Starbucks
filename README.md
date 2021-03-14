@@ -4,9 +4,9 @@
 
 
 
-**W**ebsite was created using only
- html css and JavaScript as a **response.**
- **Barber** .It is a customer priority service website that serves by online appointment.
+This Website is a template design of a famous
+ hot beverage company based on **HTML**, **CSS** and **JAVASCRIPT**.
+ Inspired by the advertising design of 1976.
  
 <br>:file_folder:`Html`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [index.html](https://github.com/Sinan-Kar/BaberShop.github.io/blob/master/index.html)
