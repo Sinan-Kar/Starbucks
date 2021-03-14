@@ -11,7 +11,7 @@ This Website is a template design of a famous
 <br>:file_folder:`Html`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [index.html](https://github.com/Sinan-Kar/BaberShop.github.io/blob/master/index.html)
 <br> <br> :file_folder:`js`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [index.js](https://github.com/Sinan-Kar/BaberShop.github.io/blob/master/js/index.js)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [index.js](https://github.com/Sinan-Kar/Starbucks/blob/master/js/index.js)
 <br> <br> :file_folder:`Css`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [style.css](https://github.com/Sinan-Kar/BaberShop.github.io/blob/master/css/style.css)
 
